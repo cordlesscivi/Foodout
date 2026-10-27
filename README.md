@@ -19,3 +19,10 @@
 - Collections (Коллекции): Использование List (ArrayList) для хранения меню и Map (HashMap) для реализации корзины покупок.
 - Interfaces (Интерфейсы): Создание контрактов для обработки пользовательского ввода (UserInputRetriever).
 - Exception Handling: Обработка исключений IllegalArgumentException и InputMismatchException.
+
+ПЛАНЫ ПО РАЗВИТИЮ ПРОЕКТА
+1. Интеграция с базой данных
+2. Использование Stream API
+3. Покрытие Unit-тестами
+4. Работа с файловой системой
+5. Подготовка к переходу на Spring Framework
